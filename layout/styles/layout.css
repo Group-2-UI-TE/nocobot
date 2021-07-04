@@ -65,6 +65,15 @@ File: Layout CSS
 /* Content Area
 --------------------------------------------------------------------------------------------------------------- */
 .container{padding:80px 0;}
+.scroll{
+	display:block;
+    border: 1px solid red;
+    padding:5px;
+    margin-top:5px;
+    width:auto;
+    height: 550px;;
+    overflow:scroll;
+}
 
 /* Content */
 .container .content{}
