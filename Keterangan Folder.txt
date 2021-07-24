@@ -1,0 +1,11 @@
+1. Index.html = Halaman Beranda Website
+2. Images/Anggota : foto masing masing anggota
+3. pages : HTML semua halaman (page)
+4. z - files : asset web kelompok yang berisikan :
+- Usecase diagram
+- Activity diagram
+- Tampilan mockups
+- User task
+- ERD
+- HTA
+- Order Fulfillment process model
